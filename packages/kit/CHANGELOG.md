@@ -1,5 +1,14 @@
 # @sveltejs/kit
 
+## 1.0.0-next.60
+
+### Patch Changes
+
+- 84e9023: Fix host property
+- 272148b: Rename \$service-worker::assets to files, per the docs
+- d5071c5: Hydrate initial page before starting router
+- 4a1c04a: More accurate MODULE_NOT_FOUND errors
+
 ## 1.0.0-next.59
 
 ### Patch Changes
